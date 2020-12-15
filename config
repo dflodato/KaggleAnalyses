@@ -6,7 +6,7 @@
 	precomposeunicode = true
 	worktree = /Users/Davide/MachineLearning/my_env/MyOwnRepo.git
 [remote "origin"]
-	url = https://github.com/dflodato/MyOwnRepo
+	url = https://github.com/dflodato/KaggleAnalyses
 	fetch = +refs/*:refs/*
 	mirror = true
 [branch "TitanicSurvivor"]
