@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	ignorecase = true
+	precomposeunicode = true
+	worktree = /Users/Davide/MachineLearning/my_env/MyOwnRepo.git
+[remote "origin"]
+	url = https://github.com/dflodato/KaggleAnalyses
+	fetch = +refs/*:refs/*
+	mirror = true
+[branch "TitanicSurvivor"]
+	remote = origin
+	merge = refs/heads/master
+[branch "HousingCalifornia"]
+	remote = origin
+	merge = refs/heads/TitanicSurvivor

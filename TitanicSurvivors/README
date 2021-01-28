@@ -1,0 +1,15 @@
+The Titanic Survivor dataset is one of the easiest and most educational datasets in the matter of both Preliminary Data Analysis and Classification Models development and optimisation.
+Preliminary Data Analysis is needed, together with some data manipulation, Feature composition and missing values filling, in order to develop and test any model that wants to correctly classify the passengers as "survivor" or "victims" of the disaster, based on the informations available.
+
+After PDA I performed a split of the dataset so that I could use the biggest part as a training sample and the remaining part as a test of the classification performances of the models used.
+
+The results have been presented in terms of the accuracy of the models. The accuracy is defined as:
+
+accuracy = #correctly identified cases/ #total cases.
+
+Afterwards, I used a 10-fold cross validation algorithm on the training sample to estimate the accuracy and its variations with changes in the dataset more reliably.  
+This has been done to try to avoid considerations based on the specific observations of the training sample.
+
+After noticing that RandomForest and XGBoost had the best classification performances, we optimised the two algorithms first in terms of FeatureImportance and then I optimised the values of the parameters of both models by means of the GridSearch algorithm.
+
+For RandomForest an out-of-bag score of 80.6% has been obtained, while XGBoost is found to be, although by little, the model with the largest accuracy in predicting Titanic survivors and Victims.
