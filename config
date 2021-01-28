@@ -12,3 +12,6 @@
 [branch "TitanicSurvivor"]
 	remote = origin
 	merge = refs/heads/master
+[branch "HousingCalifornia"]
+	remote = origin
+	merge = refs/heads/TitanicSurvivor

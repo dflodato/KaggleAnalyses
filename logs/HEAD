@@ -9,3 +9,6 @@ c69ab7fedc6a0777e312dfede4e7ae4c7629e61d 48c250901bbf50333baf01f7b1a77f7e28e58f8
 48c250901bbf50333baf01f7b1a77f7e28e58f8c 48c250901bbf50333baf01f7b1a77f7e28e58f8c Davide Lodato <davide.francesco.lodato@cern.ch> 1608030128 +0100	update by push
 48c250901bbf50333baf01f7b1a77f7e28e58f8c 625ac308298e7bca97a9b8e58ab2309fb67063fb Davide Lodato <davide.francesco.lodato@cern.ch> 1608030415 +0100	commit: adding README file to titanic survivor analysis
 625ac308298e7bca97a9b8e58ab2309fb67063fb 625ac308298e7bca97a9b8e58ab2309fb67063fb Davide Lodato <davide.francesco.lodato@cern.ch> 1608030434 +0100	update by push
+625ac308298e7bca97a9b8e58ab2309fb67063fb 2e8f258cc209e4018809a3f35011b9356746a47c Davide Lodato <davide.francesco.lodato@cern.ch> 1608030970 +0100	commit: fixing text in comments of the notebook
+2e8f258cc209e4018809a3f35011b9356746a47c 2e8f258cc209e4018809a3f35011b9356746a47c Davide Lodato <davide.francesco.lodato@cern.ch> 1608030978 +0100	update by push
+2e8f258cc209e4018809a3f35011b9356746a47c 2e8f258cc209e4018809a3f35011b9356746a47c Davide Lodato <davide.francesco.lodato@cern.ch> 1611847856 +0100	checkout: moving from TitanicSurvivor to HousingCalifornia

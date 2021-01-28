@@ -1,3 +1,4 @@
 faecdf3133d365046c67b2f441c012f7e3085b9c c69ab7fedc6a0777e312dfede4e7ae4c7629e61d Davide Lodato <davide.francesco.lodato@cern.ch> 1594829860 +0200	commit: Adding EDA, model Comparison, RF and XGB optimisation for titanic survival prediction
 c69ab7fedc6a0777e312dfede4e7ae4c7629e61d 48c250901bbf50333baf01f7b1a77f7e28e58f8c Davide Lodato <davide.francesco.lodato@cern.ch> 1608030053 +0100	commit: adding README file to titanic survivor analysis
 48c250901bbf50333baf01f7b1a77f7e28e58f8c 625ac308298e7bca97a9b8e58ab2309fb67063fb Davide Lodato <davide.francesco.lodato@cern.ch> 1608030415 +0100	commit: adding README file to titanic survivor analysis
+625ac308298e7bca97a9b8e58ab2309fb67063fb 2e8f258cc209e4018809a3f35011b9356746a47c Davide Lodato <davide.francesco.lodato@cern.ch> 1608030970 +0100	commit: fixing text in comments of the notebook
